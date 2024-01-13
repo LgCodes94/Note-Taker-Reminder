@@ -6,6 +6,6 @@ const apiRoutes = require('./apiRoutes');
 const app = express();
 
 app.use(htmlRoutes);
-app.use('./api', apiRoutes);
+app.use('/api', apiRoutes);
 
 module.exports = app;
