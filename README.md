@@ -23,7 +23,7 @@
   This project is licensed under the None license.
   
   ## Questions
-  You can find me on GitHub: [undefined](https://github.com/undefined)
+  You can find me on GitHub: (https://github.com/LgCodes94/Note-Taker-Reminder)
   
   For any questions or inquiries, please email me at l.gonzalez6@me.com.
   
